@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ndzemaruna/esmapp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ndzemaruna/esmapp/static/js/main.bd8e88d0.chunk.js",
-    "main.js.map": "/ndzemaruna/esmapp/static/js/main.bd8e88d0.chunk.js.map",
-    "runtime-main.js": "/ndzemaruna/esmapp/static/js/runtime-main.e67ca8f5.js",
-    "runtime-main.js.map": "/ndzemaruna/esmapp/static/js/runtime-main.e67ca8f5.js.map",
-    "static/js/2.acb6a7be.chunk.js": "/ndzemaruna/esmapp/static/js/2.acb6a7be.chunk.js",
-    "static/js/2.acb6a7be.chunk.js.map": "/ndzemaruna/esmapp/static/js/2.acb6a7be.chunk.js.map",
-    "index.html": "/ndzemaruna/esmapp/index.html",
-    "precache-manifest.3f59d81f61c0ca486c37221218b71416.js": "/ndzemaruna/esmapp/precache-manifest.3f59d81f61c0ca486c37221218b71416.js",
-    "service-worker.js": "/ndzemaruna/esmapp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ndzemaruna/esmapp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.acb6a7be.chunk.js.LICENSE.txt": "/ndzemaruna/esmapp/static/js/2.acb6a7be.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ndzemaruna/esmapp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/esmapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/esmapp/static/js/main.692310cf.chunk.js",
+    "main.js.map": "/esmapp/static/js/main.692310cf.chunk.js.map",
+    "runtime-main.js": "/esmapp/static/js/runtime-main.07874b55.js",
+    "runtime-main.js.map": "/esmapp/static/js/runtime-main.07874b55.js.map",
+    "static/js/2.acb6a7be.chunk.js": "/esmapp/static/js/2.acb6a7be.chunk.js",
+    "static/js/2.acb6a7be.chunk.js.map": "/esmapp/static/js/2.acb6a7be.chunk.js.map",
+    "index.html": "/esmapp/index.html",
+    "precache-manifest.7ac28140b7d7b942e0d1e0e77dd515c6.js": "/esmapp/precache-manifest.7ac28140b7d7b942e0d1e0e77dd515c6.js",
+    "service-worker.js": "/esmapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/esmapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.acb6a7be.chunk.js.LICENSE.txt": "/esmapp/static/js/2.acb6a7be.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/esmapp/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e67ca8f5.js",
+    "static/js/runtime-main.07874b55.js",
     "static/js/2.acb6a7be.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bd8e88d0.chunk.js"
+    "static/js/main.692310cf.chunk.js"
   ]
 }
