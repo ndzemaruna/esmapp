@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/esmapp/precache-manifest.7ac28140b7d7b942e0d1e0e77dd515c6.js"
+  "/esmapp/precache-manifest.d56153b2538e2682dc6511ce9a8c184c.js"
 );
 
 self.addEventListener('message', (event) => {
